@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+}
+
+.im-body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+.im-title-container{
+  width: 50%;
+  float: left;
+
+}
+
+.im-title--left{
+  width: 49.5%;
+  height: 600px;
+  border: 8px solid black;
+  float: left;
+  background: white;
+}
+.im---square{
+  height:252px;
+  background: black;
+}
+
+.im-title--centre{
+  width: 49.9%;
+  height: 600px;
+  border: solid 8px black;
+  float: right;
+  background: seagreen;
+}
+.im-image-container{
+  width: 49.7%;
+  height: 600px;
+  float: right;
+  border: 8px solid #000;
+}
